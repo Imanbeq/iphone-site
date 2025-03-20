@@ -1,1 +1,1 @@
-CheckOut: iphone-site-gamma.vercel.app
+CheckOut: https://iphone-site-gamma.vercel.app/
